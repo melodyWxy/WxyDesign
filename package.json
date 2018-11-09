@@ -1,0 +1,23 @@
+{
+  "name": "wxy-design",
+  "version": "1.0.0",
+  "description": "a",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melodyWxy/WxyDesign.git"
+  },
+  "author": "melodyWxy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melodyWxy/WxyDesign/issues"
+  },
+  "homepage": "https://github.com/melodyWxy/WxyDesign#readme",
+  "devDependencies": {
+    "webpack": "^4.25.1",
+    "webpack-cli": "^3.1.2"
+  }
+}
